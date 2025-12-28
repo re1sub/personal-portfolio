@@ -95,6 +95,10 @@ h3 {
   font-size: 1.125rem;
 }
 
+.intro em {
+  display: block;
+}
+
 .split {
   display: grid;
   gap: 3rem;
