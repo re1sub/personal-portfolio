@@ -1,0 +1,23 @@
+[
+  {
+    "id": "print-your-feet",
+    "name": "Print Your Feet",
+    "logo_url": "https://printyourfeet.com/wp-content/uploads/2023/11/OFFICIAL-LOGO-PRINT-YOUR-FEET-WHITEX.png",
+    "url": "https://printyourfeet.com",
+    "description": "Website presenting a company and its services"
+  },
+  {
+    "id": "print-your-feet-app",
+    "name": "Print Your Feet App",
+    "logo_url": "https://printyourfeet.com/wp-content/uploads/2023/11/OFFICIAL-LOGO-PRINT-YOUR-FEET-WHITEX.png",
+    "url": "https://app.printyourfeet.com",
+    "description": "App to get foot measurements based on photos taken with your phone"
+  },
+  {
+    "id": "placeholder",
+    "name": "Placeholder",
+    "logo_url": "https://placehold.co/40x40",
+    "url": "https://placehold.co",
+    "description": ""
+  }
+]
