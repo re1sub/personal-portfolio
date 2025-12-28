@@ -252,12 +252,24 @@ footer a:hover {
 
 #theme-toggle:hover {
   opacity: 0.8;
-  transform: scale(1.1);
+  color: var(--focus);
 }
 
 #theme-toggle svg {
   width: 2rem;
   height: 2rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
 }
 
 @keyframes spin {
@@ -293,5 +305,7 @@ footer a:hover {
     left: 0;
     bottom: 0;
     width: 100%;
+    padding: 0;
+    padding: 0.5rem;
   }
 }

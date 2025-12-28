@@ -44,7 +44,12 @@ const populateProjects = async () => {
               rel="nofollow"
               class="project-link"
             >
-              <img src="${project.logo_url}" width="40" height="40" />
+              <img
+                src="${project.logo_url}"
+                width="40"
+                height="40"
+                alt="${project.name} logo"
+              />
               <div>
                 <h3>${project.name}</h3>
                 <span class="link-with-icon"
